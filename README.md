@@ -1,11 +1,11 @@
 
-## 👋 Hi, I'm Mariana Betine 👋
+## 👋 Hi, I'm Mariana Betine 
 
 
 
 ### About Me
-- 💻 I'm a Data Analyst
-- 👀 Current tools I frequently use: Power BI, Looker Studio, Supermetrics, SQL, Big Query
+- 📊 I'm a Data Analyst
+- 🔨 Current tools I frequently use: Power BI, Looker Studio, Supermetrics, SQL, Big Query
 - 🌱 I’m currently learning Machine Learning through the Python language
 
 
